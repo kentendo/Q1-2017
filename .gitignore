@@ -1,0 +1,6 @@
+app/bin
+app/obj
+library/bin
+library/obj
+test-library/bin
+test-library/obj
